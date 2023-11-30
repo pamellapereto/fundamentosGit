@@ -11,6 +11,7 @@
   Será criada uma pasta chamada `.git`, **não** a apague
 * Digite `git add .` para colocar os arquivos do projeto na **área de staging**
 <img src="https://i1.wp.com/www.markus-gattol.name/misc/mm/si/content/git_git_add.png">
+
 * Digite `git commit -m "primeira versão do projeto"` para versionar **localmente** o projeto
 * Digite `git branch -M "main"` para renomear a branch principal de `master` para `main`
   
