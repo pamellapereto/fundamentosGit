@@ -3,8 +3,7 @@
 # Instalação do git
 * [Link com downloads](https://git-scm.com/downloads)
 
-## Versionamento local do projeto 
-
+## Versionamento local
 
 * Entre na pasta na qual o projeto está armazenado
 * Clique com o botão direito do mouse e selecione **Open Git Bash here**
