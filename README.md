@@ -1,12 +1,10 @@
 # Tutorial de Git e Github na prática
 
+## Instalação do git
+* [Link com downloads](https://git-scm.com/downloads)
 
-* [Link](https://git-scm.com/downloads)
-
-## Versionamento local do projeto 
-
-
-* Entre na pasta na qual o projeto está armazenado
+## Versionamento local do projeto
+* Acesse a pasta na qual o projeto está armazenado
 * Clique com o botão direito do mouse e selecione **Open Git Bash here**
 * Digite `git init` para inicializar o repositório
   
