@@ -4,7 +4,9 @@
 * [Link com downloads](https://git-scm.com/downloads)
 
 ## Versionamento local do projeto 
-* Acesse a pasta na qual o projeto está armazenado
+
+
+* Entre na pasta na qual o projeto está armazenado
 * Clique com o botão direito do mouse e selecione **Open Git Bash here**
 * Digite `git init` para inicializar o repositório
   
