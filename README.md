@@ -92,31 +92,3 @@ verifique qual branch no Github está como `default`, pois o **projeto clonado s
 * Para puxar **todas as alterações realizadas do repositório remoto (Github) para o seu repositório local**, digite `git pull`
 
 * Testando na prática o git pull!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
